@@ -1,0 +1,10 @@
+statsbombpy
+fastapi
+uvicorn
+streamlit
+langchain
+openai
+pydantic
+requests
+matplotlib
+python-dotenv
